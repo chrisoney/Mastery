@@ -55,8 +55,9 @@ class NavBar extends React.Component {
       <div id="navbar-container">
         <img
           id="navbar-logo"
-          src="https://tinyurl.com/y35mx8se"
-          alt="footer-logo"
+          src="new-logo.png"
+          alt='footer-logo'
+          title='M Logo Vectors by Vecteezy'
         />
         <div id="navbar">
           <div id="nav-left">

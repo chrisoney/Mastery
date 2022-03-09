@@ -24,10 +24,8 @@ class MainPage extends React.Component {
 
               <img
                 className="landing-logo"
-                src="https://emilyschromm.com/wp-content/themes/emfit/assets/footer/footer-logo-2x.png"
-                alt="footer-logo"
+                src="new-logo.png" alt='footer-logo' title='M Logo Vectors by Vecteezy'
               />
-
               <button
                 className="top-session-btn"
                 onClick={() => this.props.openModal("login")}
@@ -52,7 +50,7 @@ class MainPage extends React.Component {
                 hours for a human to truly master
                 any skill.
               </p>
-              <img className='landing-logo' src="https://tinyurl.com/y35mx8se" alt='footer-logo'/>
+              <img className='landing-logo' src="new-logo.png" alt='footer-logo' title='M Logo Vectors by Vecteezy'/>
             </div>
             <p className="bottom-text">
               Mastery gives you the tools necessary to become a master at the
